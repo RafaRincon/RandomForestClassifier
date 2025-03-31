@@ -82,8 +82,6 @@ Comparación clara entre modelos en términos de:
 │   ├── random_forest_model.pkl
 │   ├── SVM_model.pkl
 │   └── XGBoost_model.pkl
-├── results/
-│   └── graficos_comparativos.png
 ├── README.md
 └── requirements.txt
 ```
